@@ -3,8 +3,7 @@
 // status: accepted
  
 // auother: https://github.com/HamzaYehia
-// CodeForces Acc: https://codeforces.com/profile/HamzaYehia 
-
+// CodeForces Acc: https://codeforces.com/profile/HamzaYehia
 
 #include<iostream>
 #include<string.h>
