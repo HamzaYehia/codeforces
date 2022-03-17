@@ -2,7 +2,7 @@
 // problem link: https://codeforces.com/problemset/problem/546/A
 // status: accepted
 
-// auother: https://github.com/HamzaYehia
+// author: https://github.com/HamzaYehia
 // CodeForces Acc: https://codeforces.com/profile/HamzaYehia
 
 
@@ -21,7 +21,7 @@ int main(void)
 
     int temp = k;
 
-    for(int i = 1; i <= w; i++) {
+    for (int i = 1; i <= w; i++) {
         k *= i;
         result += k;
         k = temp;
@@ -35,7 +35,7 @@ int main(void)
         result -= n;
         printf("%d", result);
     }
-    else  
+    else
         printf("%d", 0);
 
     return 0;

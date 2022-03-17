@@ -2,7 +2,7 @@
 // problem link: https://codeforces.com/problemset/problem/977/A
 // status: accepted
 
-// auother: https://github.com/HamzaYehia
+// author: https://github.com/HamzaYehia
 // CodeForces Acc: https://codeforces.com/profile/HamzaYehia
 
 
@@ -16,7 +16,7 @@ int main(void)
     {
         /* (n % 10) figure out
         the value of the last digit of n */
-        
+
         if ((n % 10) != 0)
         {
             n -= 1;

@@ -2,7 +2,7 @@
 // problem link: https://codeforces.com/problemset/problem/617/A
 // status: accepted
 
-// auother: https://github.com/HamzaYehia
+// author: https://github.com/HamzaYehia
 // CodeForces Acc: https://codeforces.com/profile/HamzaYehia
 
 

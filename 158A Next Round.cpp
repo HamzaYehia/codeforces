@@ -2,7 +2,7 @@
 // problem link: https://codeforces.com/problemset/problem/158/A
 // status: accepted
 
-// auother: https://github.com/HamzaYehia
+// author: https://github.com/HamzaYehia
 
 #include <iostream>
 using namespace std;

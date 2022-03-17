@@ -2,7 +2,7 @@
 // problem link: https://codeforces.com/contest/71/problem/A
 // status: accepted
 
-// auother: https://github.com/HamzaYehia
+// author: https://github.com/HamzaYehia
 
 
 #include <iostream>

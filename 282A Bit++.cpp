@@ -1,7 +1,7 @@
 // problem name: A. Bit++
 // problem link: https://codeforces.com/problemset/problem/282/A
 // status: accepted
-// auother: https://github.com/HamzaYehia
+// author: https://github.com/HamzaYehia
 
 
 #include <iostream>
@@ -18,9 +18,11 @@ int main() {
         cin >> inpt;
         if (inpt == "X++" || inpt == "++X") {
             x++;
-        } else if (inpt == "X--" || inpt == "--X") {
+        }
+        else if (inpt == "X--" || inpt == "--X") {
             x--;
-        } else
+        }
+        else
             return -1;
     }
     cout << x;

@@ -1,8 +1,8 @@
-// problem name: 231A Team
+// problem name: Team
 // problem link: https://codeforces.com/problemset/problem/231/A
 // status: accepted
 
-// auother: https://github.com/HamzaYehia
+// author: https://github.com/HamzaYehia
 
 #include <iostream>
 using namespace std;

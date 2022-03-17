@@ -1,8 +1,8 @@
 // problem name: Queue at the School
 // problem link: https://codeforces.com/problemset/problem/110/A
 // Time complexity: Linear
- 
-// auother: https://github.com/HamzaYehia
+
+// author: https://github.com/HamzaYehia
 // CodeForces Acc: https://codeforces.com/profile/HamzaYehia 
 
 

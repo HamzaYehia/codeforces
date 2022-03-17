@@ -1,9 +1,9 @@
 // problem name: Word Capitalization
 // problem link: https: https://codeforces.com/problemset/problem/281/A
 // status: accepted
- 
-// auother: https://github.com/HamzaYehia
- 
+
+// author: https://github.com/HamzaYehia
+
 
 #include <stdio.h>
 

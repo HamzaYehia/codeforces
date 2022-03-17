@@ -2,7 +2,7 @@
 // problem link: https://codeforces.com/problemset/problem/263/A
 // status: accepted
 
-// auother: https://github.com/HamzaYehia
+// author: https://github.com/HamzaYehia
 
 import java.util.Scanner;
  
