@@ -41,6 +41,6 @@ int main(void) {
 
     printf("%d\n", required_minimum_width);
 
-    //free(friends_heights);
+    free(friends_heights);
     return 0;
 }
